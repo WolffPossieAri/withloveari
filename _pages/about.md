@@ -13,7 +13,7 @@ In 2024, I returned home from serving an LDS mission in Cobán, Guatemala, a pla
 I’m far from perfect, but I try every day to grow a little softer, a little steadier, and a little more faithful.
 Life feels lighter with Him.
 
-<img src="/images/pages/about2.jpeg">
+<img src="/images/pages/about2.jpg">
 
 And even sweeter with my family.
 
