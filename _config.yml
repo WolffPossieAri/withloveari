@@ -1,0 +1,105 @@
+#-------------------------------
+# General Site Settings
+title: With Love, Ari
+logo: '/images/general/ari_logo.png' # You can add own logo. For example '/images/logo.png'.
+description: Minimalistic and Elegant Theme
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Arianna Christine Possié Wolff
+
+  bio: Welcome to With Love, Ari!  A cozy corner where I share the rhythms of my weeks. Baking something warm, experiencing something new, gathering with family and learning to notice the quiet ways God shows up in normal days.  I'm so glad you're here!
+  image: '/images/general/03.jpg'
+  avatar: '/images/general/avatar.jpg'
+
+# Example of adding a new link to the section author - {icon: "ion-logo-github", link: "https://github.com"}
+author-social:
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/ariannachristinepossie?igsh=MTZ2dDZ6MzR4azFmNg%3D%3D&utm_source=qr"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/arianna.christine.possie.wolff"}
+- {icon: "ion-logo-pinterest", link: "https://www.pinterest.com/ariannapossi/?invite_code=d8a136a8fd6c4b0c90a0250ef5750e6c&sender=1053068462777368456"}
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__image: '/images/general/hero.jpg'
+  hero__title: Welcome to my little corner of the internet!
+  hero__description: Thoughts, stories and ideas.
+
+
+#-------------------------------
+# Footer section
+# Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+- {icon: "ion-logo-github", link: "https://github.com"}
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp:
+  mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# NOTE
+# If you don't want to use the subscribe section, just remove or comment out these lines.
+
+
+#-------------------------------
+# Contant form Settings
+contact:
+  email: ari@possiefamily.com # Add your email for contant form
+  description: Mangila comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Mangila comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
