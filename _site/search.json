@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Baking with Holly",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 col-m-12 grid__post animate'><a class='article__image' href='/2026/02/25/holly's-kitchen/'> <img src='/images/recipes/hollys_kitchen/pretzel4.jpg' alt='Baking with Holly'> </a><div class='article__content'> <div class='article__meta'> <time class='article__date' datetime='2026-02-25T17:38:55-07:00'>Feb 25, 2026</time> <div class='article-tags'><div class='article-tags__box'><a href='/tag/recipes' class='article__tag'>recipes</a></div></div></div><h2 class='article__title'> <a href='/2026/02/25/holly's-kitchen/'>Baking with Holly</a> </h2> <p class='article__excerpt'>Holly is a mother of five and the heart of her home kitchen. She’s the kind of cook who doesn’t just follow...</p><div class='article__bottom'> <div class='article__author'><a href='/author/' class='article__author-image' aria-label='Arianna Christine Possié Wolff's Picture'><img src='/images/general/avatar.jpg' alt='Arianna Christine Possié Wolff's Picture'></a><a href='/author/' class='article__author-name'>Arianna Christine Possié Wolff</a> </div><span class='article__minutes'>6min read</span> </div></div></div>",
+      "category" : "",
+      "tags"     : "recipes",
+      "url"      : "/2026/02/25/holly's-kitchen/",
+      "date"     : "Feb 25, 2026"
+    } ,
+  
+    {
       "title"    : "The Sunflower Theory",
       "article"  : "<div class='article col col-4 col-d-6 col-t-12 col-m-12 grid__post animate'><a class='article__image' href='/2026/02/24/the-sunflower-theory/'> <img src='/images/faith/week1/sunflower.jpg' alt='The Sunflower Theory'> </a><div class='article__content'> <div class='article__meta'> <time class='article__date' datetime='2026-02-24T09:38:55-07:00'>Feb 24, 2026</time> <div class='article-tags'><div class='article-tags__box'><a href='/tag/faith' class='article__tag'>faith</a><a href='/tag/life' class='article__tag'>life</a></div></div></div><h2 class='article__title'> <a href='/2026/02/24/the-sunflower-theory/'>The Sunflower Theory</a> </h2> <p class='article__excerpt'>Have you heard of the Sunflower Theory?I couldn’t stop thinking about it this week, so I thought I’d share ...</p><div class='article__bottom'> <div class='article__author'><a href='/author/' class='article__author-image' aria-label='Arianna Christine Possié Wolff's Picture'><img src='/images/general/avatar.jpg' alt='Arianna Christine Possié Wolff's Picture'></a><a href='/author/' class='article__author-name'>Arianna Christine Possié Wolff</a> </div><span class='article__minutes'>2min read</span> </div></div></div>",
       "category" : "",
