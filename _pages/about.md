@@ -19,6 +19,8 @@ And even sweeter with my family.
 
 If you know me at all, you know they are the center of my world. My loving parents and my three little sisters keep my life loud but meaningful. They are my greatest joy and my safest place.
 
+<img src="/images/pages/aboutfamily.jpg">
+
 Being in my twenties is thrilling — my world feels like it’s constantly stretching and shifting. But in the middle of all that movement, I’ve learned to treasure stillness too.
 
 You’ll usually find me in the kitchen during those quiet moments — trying a new recipe, baking something warm, or experimenting with flavors I’m not totally confident in yet. I’m not an expert (not even close), but there’s something special about creating something with your hands and sharing it with someone you love.
