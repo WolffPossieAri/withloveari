@@ -46,7 +46,7 @@ Sunday was family party time! Carne asada, cupcakes, and Just Dance competitions
 
 <img src="/images/blog/week1/8.jpg">
 
-<img src="/images/blog/week1/3.heic">
+<img src="/images/blog/week1/3.jpg">
       
 It was full.
 It was loud.
