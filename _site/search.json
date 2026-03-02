@@ -1,6 +1,33 @@
 [
   
     {
+      "title"    : "In The Possie Kitchen",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 col-m-12 grid__post animate'><a class='article__image' href='/2026/03/02/vanilla-custard-pastries/'> <img src='/images/recipes/aris_kitchen/van_cust_past3.jpg' alt='In The Possie Kitchen'> </a><div class='article__content'> <div class='article__meta'> <time class='article__date' datetime='2026-03-02T06:57:55-07:00'>Mar 2, 2026</time> <div class='article-tags'><div class='article-tags__box'><a href='/tag/recipes' class='article__tag'>recipes</a></div></div></div><h2 class='article__title'> <a href='/2026/03/02/vanilla-custard-pastries/'>In The Possie Kitchen</a> </h2> <p class='article__excerpt'>These little pastries are as charming as they are simple!Golden, flaky layers baked to perfection and toppe...</p><div class='article__bottom'> <div class='article__author'><a href='/author/' class='article__author-image' aria-label='Arianna Christine Possié Wolff's Picture'><img src='/images/general/avatar.jpg' alt='Arianna Christine Possié Wolff's Picture'></a><a href='/author/' class='article__author-name'>Arianna Christine Possié Wolff</a> </div><span class='article__minutes'>1 min read</span> </div></div></div>",
+      "category" : "",
+      "tags"     : "recipes",
+      "url"      : "/2026/03/02/vanilla-custard-pastries/",
+      "date"     : "Mar 2, 2026"
+    } ,
+  
+    {
+      "title"    : "Choosing To Stay",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 col-m-12 grid__post animate'><a class='article__image' href='/2026/03/01/choosing-to-stay/'> <img src='/images/faith/week2/flower.jpg' alt='Choosing To Stay'> </a><div class='article__content'> <div class='article__meta'> <time class='article__date' datetime='2026-03-01T20:31:55-07:00'>Mar 1, 2026</time> <div class='article-tags'><div class='article-tags__box'><a href='/tag/faith' class='article__tag'>faith</a><a href='/tag/life' class='article__tag'>life</a></div></div></div><h2 class='article__title'> <a href='/2026/03/01/choosing-to-stay/'>Choosing To Stay</a> </h2> <p class='article__excerpt'>I’ve been stepping into a new beginning lately, what I’ve been calling my post-mission refinery.Even with a...</p><div class='article__bottom'> <div class='article__author'><a href='/author/' class='article__author-image' aria-label='Arianna Christine Possié Wolff's Picture'><img src='/images/general/avatar.jpg' alt='Arianna Christine Possié Wolff's Picture'></a><a href='/author/' class='article__author-name'>Arianna Christine Possié Wolff</a> </div><span class='article__minutes'>2min read</span> </div></div></div>",
+      "category" : "",
+      "tags"     : "faith and life",
+      "url"      : "/2026/03/01/choosing-to-stay/",
+      "date"     : "Mar 1, 2026"
+    } ,
+  
+    {
+      "title"    : "Flour Hands &amp; Full Days",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 col-m-12 grid__post animate'><a class='article__image' href='/2026/02/26/flour-hands-and-full-days/'> <img src='/images/blog/week2/1.jpg' alt='Flour Hands & Full Days'> </a><div class='article__content'> <div class='article__meta'> <time class='article__date' datetime='2026-02-26T20:18:55-07:00'>Feb 26, 2026</time> <div class='article-tags'><div class='article-tags__box'><a href='/tag/Life' class='article__tag'>Life</a></div></div></div><h2 class='article__title'> <a href='/2026/02/26/flour-hands-and-full-days/'>Flour Hands & Full Days</a> </h2> <p class='article__excerpt'>If you had told me this week would include daycare tears, baking ambitions, face masks and AFV marathons, w...</p><div class='article__bottom'> <div class='article__author'><a href='/author/' class='article__author-image' aria-label='Arianna Christine Possié Wolff's Picture'><img src='/images/general/avatar.jpg' alt='Arianna Christine Possié Wolff's Picture'></a><a href='/author/' class='article__author-name'>Arianna Christine Possié Wolff</a> </div><span class='article__minutes'>6min read</span> </div></div></div>",
+      "category" : "",
+      "tags"     : "Life",
+      "url"      : "/2026/02/26/flour-hands-and-full-days/",
+      "date"     : "Feb 26, 2026"
+    } ,
+  
+    {
       "title"    : "Baking with Holly",
       "article"  : "<div class='article col col-4 col-d-6 col-t-12 col-m-12 grid__post animate'><a class='article__image' href='/2026/02/25/holly's-kitchen/'> <img src='/images/recipes/hollys_kitchen/pretzel4.jpg' alt='Baking with Holly'> </a><div class='article__content'> <div class='article__meta'> <time class='article__date' datetime='2026-02-25T17:38:55-07:00'>Feb 25, 2026</time> <div class='article-tags'><div class='article-tags__box'><a href='/tag/recipes' class='article__tag'>recipes</a></div></div></div><h2 class='article__title'> <a href='/2026/02/25/holly's-kitchen/'>Baking with Holly</a> </h2> <p class='article__excerpt'>Holly is a mother of five and the heart of her home kitchen. She’s the kind of cook who doesn’t just follow...</p><div class='article__bottom'> <div class='article__author'><a href='/author/' class='article__author-image' aria-label='Arianna Christine Possié Wolff's Picture'><img src='/images/general/avatar.jpg' alt='Arianna Christine Possié Wolff's Picture'></a><a href='/author/' class='article__author-name'>Arianna Christine Possié Wolff</a> </div><span class='article__minutes'>6min read</span> </div></div></div>",
       "category" : "",

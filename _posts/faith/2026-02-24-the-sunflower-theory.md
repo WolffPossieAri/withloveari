@@ -51,10 +51,13 @@ I know God is there. I know He sees me trying. But there are days when it feels 
 
 In those moments, I think of the Primary song “A Child’s Prayer”:
 
-Pray, He is there;
-Speak, He is list’ning.
-You are His child;
-His love now surrounds you.
+*Pray, He is there;*
+
+*Speak, He is list’ning.*
+
+*You are His child;*
+
+*His love now surrounds you.*
 
 That simple truth steadies me.
 

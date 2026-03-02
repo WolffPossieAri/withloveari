@@ -11,7 +11,7 @@ She carries a special spirit not only in her home, but everywhere she goes. Warm
 
 <img src="/images/recipes/hollys_kitchen/6.jpg">
 
-There’s something about working with dough that feels both comforting and a little magical. Maybe it’s the way simple ingredients, flour, yeast, water, transform into something warm and completely irresistible. These no fail breadsticks and homemade mall style soft pretzels are two recipes that never disappoint.
+There’s something about working with dough that feels both comforting and a little magical. Maybe it’s the way simple ingredients, flour, yeast, and water, transform into something warm and completely irresistible. These no fail breadsticks and homemade mall style soft pretzels are two recipes that never disappoint.
 
 The breadsticks bake up soft and fluffy on the inside with a lightly golden, buttery finish on the outside. Perfect for dipping into soup, serving alongside pasta, or enjoying straight from the pan. 
 

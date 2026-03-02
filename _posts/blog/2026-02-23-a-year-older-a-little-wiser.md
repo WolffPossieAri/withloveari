@@ -22,7 +22,7 @@ This winter has been strange, the weather unsure of itself. So the kids and I ha
 
 It’s loud. It’s messy. It’s beautiful.
 
-One of our youngest, Finley, just started walking and is bravely attempting new words. Watching him follow the older kids copying every jump, sound, and dance move, is one of the sweetest parts of my day. At home he may be the oldest, but with us, he’s our baby.
+One of our youngest kids just started walking and is bravely attempting new words. Watching him follow the older kids copying every jump, sound, and dance move, is one of the sweetest parts of my day. At home he may be the oldest, but with us, he’s our baby.
 
 And speaking of babies…
 
