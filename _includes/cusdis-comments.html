@@ -1,0 +1,43 @@
+{% if page.id %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
+
+      <div id="cusdis_thread"
+        data-host="https://cusdis.com"
+        data-app-id="2f422f9c-650f-437e-92a9-d4f777b21ff4"
+        data-page-id="{{ page.id }}"
+        data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}"
+        data-page-title="{{ page.title }}">
+      </div>
+      <script defer src="https://cusdis.com/js/cusdis.es.js"></script>
+      <script>
+        (function () {
+          function autoResize(iframe) {
+            iframe.addEventListener('load', function () {
+              try {
+                var body = iframe.contentDocument.body;
+                function fit() {
+                  iframe.style.height = body.scrollHeight + 'px';
+                }
+                fit();
+                new ResizeObserver(fit).observe(body);
+              } catch (e) {}
+            });
+          }
+
+          var thread = document.getElementById('cusdis_thread');
+          new MutationObserver(function (mutations) {
+            mutations.forEach(function (m) {
+              m.addedNodes.forEach(function (node) {
+                if (node.tagName === 'IFRAME') autoResize(node);
+              });
+            });
+          }).observe(thread, { childList: true });
+        })();
+      </script>
+
+    </div>
+  </div>
+</div>
+{% endif %}

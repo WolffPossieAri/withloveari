@@ -436,13 +436,6 @@ I spend my days caring for six sweet kids at the daycare. Six doesn’t sound li
 
 <p>This winter has been strange, the weather unsure of itself. So the kids and I have mostly stayed indoors filling our days with art projects, matching games, singing at full volume, and spontaneous dance parties. But when the sun decides to show up, you’ll find us outside playing catch or hiding behind trees in dramatic games of hide and seek.</p>
 
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/images/blog/week1/6.jpg" />
-  </div>
-  <em>Hide &amp; Seek Fun!/ <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
 <p><img src="/images/blog/week1/6.jpg" /></p>
 
 <p>It’s loud. It’s messy. It’s beautiful.</p>
@@ -665,40 +658,50 @@ There’s so much more I want to share! The lessons I’m learning, the things I
   </div>
 </div>
 
- <div class="container">
+
+<div class="container">
   <div class="row">
     <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
 
-      <div class="show-comments">
-        <button class="button" id="show-comments-button" onclick="disqus();return false;">View Comments</button>
+      <div id="cusdis_thread"
+        data-host="https://cusdis.com"
+        data-app-id="2f422f9c-650f-437e-92a9-d4f777b21ff4"
+        data-page-id="/2026/02/23/a-year-older-a-little-wiser"
+        data-page-url="http://localhost:4000/2026/02/23/a-year-older-a-little-wiser/"
+        data-page-title="A Year Older, A Little Wiser...">
       </div>
+      <script defer src="https://cusdis.com/js/cusdis.es.js"></script>
+      <script>
+        (function () {
+          function autoResize(iframe) {
+            iframe.addEventListener('load', function () {
+              try {
+                var body = iframe.contentDocument.body;
+                function fit() {
+                  iframe.style.height = body.scrollHeight + 'px';
+                }
+                fit();
+                new ResizeObserver(fit).observe(body);
+              } catch (e) {}
+            });
+          }
 
-      <div id="disqus_thread"></div>
+          var thread = document.getElementById('cusdis_thread');
+          new MutationObserver(function (mutations) {
+            mutations.forEach(function (m) {
+              m.addedNodes.forEach(function (node) {
+                if (node.tagName === 'IFRAME') autoResize(node);
+              });
+            });
+          }).observe(thread, { childList: true });
+        })();
+      </script>
+
     </div>
   </div>
 </div>
 
-<script>
-  var disqus_loaded = false;
-  var disqus_shortname = 'mr-brown';
-  function disqus() {
-    if (!disqus_loaded) {
-      disqus_loaded = true;
-      var e = document.createElement("script");
-      e.type = "text/javascript";
-      e.async = true;
-      e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
-      (document.getElementsByTagName("head")[0] ||
-      document.getElementsByTagName("body")[0])
-      .appendChild(e);
-      // Hide the button after opening
-      document.getElementById("show-comments-button").style.display = "none";
-    }
-  }
-</script>
-<noscript>Please enable JavaScript to view the
-<a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript> 
+
   </main> 
   <!-- end content -->
 
