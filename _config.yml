@@ -26,9 +26,9 @@ author-social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__image: '/images/general/hero.jpg'
+  hero__image: '/images/general/mount.jpg'
   hero__title: Welcome to my little corner of the internet!
-  hero__description: Thoughts, stories and ideas.
+  hero__description: Thoughts, stories and recipes.
 
 
 #-------------------------------
@@ -83,6 +83,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-feed
 
 paginate: 9
 paginate_path: "/page/:num"
