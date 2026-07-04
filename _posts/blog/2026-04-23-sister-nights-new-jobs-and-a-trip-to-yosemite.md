@@ -21,8 +21,6 @@ Jamin has definitely been making life more fun lately. He took me to Flow Rider,
 
 Later that week, he took me out to Tokyo Station, and it was SO good. Like, genuinely one of those meals where you keep thinking about it after you leave. It’s been a very, very long time since I’ve gone to a restaurant like that, and it just felt really special. I’m really grateful he took me—and not gonna lie, I’m already dreaming of when we can go back.
 
-<img src="/images/blog/sister-night/movie.jpg">
-
 Lauren is graduating in just a few weeks, which honestly doesn’t even feel real. Time has gone by so fast, and it’s weird thinking about how we’re already at this point. She’ll be sending out her graduation cards soon, which makes it feel even more official. I’m kind of excited that I won’t be the only graduate from Weber High anymore, it feels like she’s quickly catching up to me. She’s worked so hard to get here, and I’m genuinely so proud of everything she’s accomplished.
 
 I’m also really looking forward to this summer with her. Between her job and working on her mission papers, I know she’ll be busy, but I’m hoping we can still make the most of the time we have before she leaves. I already have this whole list in my head—going on picnics, paddle boarding, and just doing all the random Utah adventures we always talk about but never fully plan. Even if it’s something simple, I just want to spend that time together while we can. I know what it feels like to be gone from the family for so long. So hopefully we make some meaningful memories together before she leaves.
@@ -45,8 +43,6 @@ More than anything though, it was just really nice having everyone all together.
   <div class="gallery">
      <img src="/images/blog/sister-night/sisfun.jpg">
     <img src="/images/blog/sister-night/all.jpg">
-    <img src="/images/blog/sister-night/laser.jpg">
-    <img src="/images/blog/sister-night/sisters.jpg">
     <img src="/images/blog/sister-night/allfun.jpg">
   </div>
   <em>Our Sister Instagram Page / <a href="https://www.instagram.com/possie_sisters/" target="_blank">click here</a></em>
