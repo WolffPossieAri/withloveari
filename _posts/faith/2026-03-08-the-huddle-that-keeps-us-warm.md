@@ -3,7 +3,7 @@ layout: post
 title:  The Huddle That Keeps Us Warm
 date:   2026-03-05 9:17:55 +0700
 image:  '/images/faith/week3/imagemain.jpg'
-tags:   Faith
+tags:   [faith, life]
 ---
 So on my daily readings from *National Geographic*, there was something I found really interesting that I would like to share with you, dear reader.
 

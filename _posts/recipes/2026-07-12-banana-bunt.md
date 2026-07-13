@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  The Banana Bunt Cake - What to bake when you're tired of banana bread.
-date:   2026-07-12 7:38:55 +0700
-image:  '/images/recipes/banana-bunt/cover1.jpeg'
+date:   2026-07-11 12:15:55 +0700
+image:  '/images/recipes/banana_bunt/cover.jpeg'
 tags:   [recipes]
 ---
 
